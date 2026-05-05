@@ -4,7 +4,7 @@
     <groupId>nl.inl.blacklab</groupId>
     <artifactId>blacklab-all</artifactId>
     <packaging>pom</packaging>
-    <version>5.0.0-SNAPSHOT</version>
+    <version>6.0.0-SNAPSHOT</version>
     <name>BlackLab Corpus Search</name>
     <description>The parent project for BlackLab Core and BlackLab Server.</description>
     <url>https://github.com/instituutnederlandsetaal/BlackLab</url>
@@ -52,8 +52,8 @@
 
         <!-- Library versions -->
         <servlet.version>6.0.0</servlet.version>
-        <blacklab.luceneVersion>9.11.1</blacklab.luceneVersion>
-        <solr.version>9.8.1</solr.version>
+        <blacklab.luceneVersion>10.4.0</blacklab.luceneVersion>
+        <solr.version>10.0.0</solr.version>
         <log4j.version>2.25.4</log4j.version>
         <eclipse.collections.version>12.0.0.M3</eclipse.collections.version>
 
